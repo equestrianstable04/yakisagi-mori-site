@@ -72,7 +72,7 @@ function Header({
               Osaka / Japan
             </span>
             <span className="font-serif text-[1.72rem] leading-none tracking-[0.07em] text-foreground transition-transform duration-500 group-hover:translate-x-1">
-              Yakisagi Mori
+              yakisugi Mori
             </span>
             <span className="text-[0.68rem] tracking-[0.24em] text-muted-foreground">
               {siteMeta.brand.kana}
@@ -164,7 +164,7 @@ export function PageBanner({
         <div className="mb-3 flex items-center justify-between gap-4">
           <p className="text-xs uppercase tracking-[0.28em] text-muted-foreground">{asset.eyebrow}</p>
           <p className="hidden text-xs uppercase tracking-[0.4em] text-muted-foreground md:block">
-            Yakisagi Mori / Osaka
+            yakisugi Mori / Osaka
           </p>
         </div>
 
@@ -279,7 +279,7 @@ function Footer() {
       <div className="container py-16">
         <div className="grid gap-14 lg:grid-cols-[1.25fr_0.85fr_0.9fr]">
           <div className="space-y-5">
-            <p className="text-xs uppercase tracking-[0.34em] text-[#bcae98]">Yakisagi Mori</p>
+            <p className="text-xs uppercase tracking-[0.34em] text-[#bcae98]">yakisugi Mori</p>
             <h2 className="max-w-lg font-serif text-4xl leading-tight tracking-[0.06em]">
               素材の静けさを、建築の輪郭へ。
             </h2>

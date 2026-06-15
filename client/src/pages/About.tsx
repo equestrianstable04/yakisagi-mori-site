@@ -10,7 +10,7 @@ import { PageBanner, SectionHeading, SiteLayout } from "@/components/SiteChrome"
 import { aboutPage, heroAssets } from "@/lib/siteContent";
 
 const philosophyQuote =
-  "焼杉は黒い外装材ではなく、火と時間が木に残した記憶である。Yakisagi Mori はその記憶を、現代建築の静かな輪郭へとつなぎます。";
+  "焼杉は黒い外装材ではなく、火と時間が木に残した記憶である。yakisugi Mori はその記憶を、現代建築の静かな輪郭へとつなぎます。";
 
 const galleryPreview = [
   {
@@ -39,7 +39,7 @@ export default function About() {
         <div className="container">
           <SectionHeading
             index="01"
-            title="Yakisagi Mori について"
+            title="yakisugi Mori について"
             description="元サイトの About ページが持つ系譜、思想、教育的説明の流れを受け継ぎながら、大阪拠点のブランドとして再構成しています。"
           />
 
@@ -65,7 +65,7 @@ export default function About() {
               継承と再編集の時間軸
             </h2>
             <p className="mt-5 max-w-md text-sm leading-8 text-muted-foreground">
-              元サイトが強く打ち出している heritage の流れを受け継ぎ、Yakisagi Mori では 1974 年から続く焼杉加工の知見を大阪で現代建築へと接続しています。
+              元サイトが強く打ち出している heritage の流れを受け継ぎ、yakisugi Mori では 1974 年から続く焼杉加工の知見を大阪で現代建築へと接続しています。
             </p>
           </div>
 
@@ -108,7 +108,7 @@ export default function About() {
           <SectionHeading
             index="04"
             title="施工イメージ"
-            description="元サイトの About ページ後半にあるプロジェクト紹介の流れを受け、Yakisagi Mori の想定事例を簡潔なカードで再構成しています。"
+            description="元サイトの About ページ後半にあるプロジェクト紹介の流れを受け、yakisugi Mori の想定事例を簡潔なカードで再構成しています。"
           />
 
           <div className="mt-12 grid gap-px border border-border/70 bg-border lg:grid-cols-3">
@@ -134,7 +134,7 @@ export default function About() {
                 大阪からご一緒します。
               </h2>
               <p className="mt-5 max-w-2xl text-sm leading-8 text-muted-foreground md:text-base">
-                素材の比較、部位ごとの相性、サンプル相談、経年変化の考え方まで。建築計画の初期段階から、Yakisagi Mori が静かに伴走します。
+                素材の比較、部位ごとの相性、サンプル相談、経年変化の考え方まで。建築計画の初期段階から、yakisugi Mori が静かに伴走します。
               </p>
             </div>
             <Link href="/contact">

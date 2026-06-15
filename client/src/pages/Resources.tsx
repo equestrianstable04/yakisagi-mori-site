@@ -141,7 +141,7 @@ export default function Resources() {
                 必要な資料を整理します。
               </h2>
               <p className="mt-5 max-w-2xl text-sm leading-8 text-muted-foreground md:text-base">
-                外装か内装か、沿岸部か都市部か、素材の黒さをどこまで残したいか。条件に応じて、Yakisagi Mori が確認すべき資料やサンプルの順番をご案内します。
+                外装か内装か、沿岸部か都市部か、素材の黒さをどこまで残したいか。条件に応じて、yakisugi Mori が確認すべき資料やサンプルの順番をご案内します。
               </p>
             </div>
             <Link href="/contact">

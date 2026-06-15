@@ -2,7 +2,7 @@ export const siteMeta = {
   brand: {
     name: "Yakisugi Mori",
     kana: "ヤキスギ モリ",
-    tagline: "大阪から届ける、焼杉の静かな存在感。",
+    tagline: "Shou Sugi Ban — 大阪から届ける、焼杉の静かな存在感。",
   },
   contact: {
     email: "info@yakisugimori.jp",
@@ -21,7 +21,7 @@ export const heroAssets = {
     year: "1974",
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663528116740/g9YtKY8Vhdu6ggym3JQWsS/hero-charred-wood_d6bf53c7.jpg",
-    video: "https://d2xsxph8kpxj0f.cloudfront.net/310519663528116740/g9YtKY8Vhdu6ggym3JQWsS/yakisagi_19sec_7f547655.mp4",
+    video: "https://d2xsxph8kpxj0f.cloudfront.net/310519663528116740/g9YtKY8Vhdu6ggym3JQWsS/yakisugi_19sec_7f547655.mp4",
   },
   products: {
     eyebrow: "製品一覧",
@@ -61,7 +61,7 @@ export const homePage = {
   hero: {
     title: `焼杉という素材を、
 大阪の感性で再編集する。`,
-    subtitle: "日本で培われた焼杉の伝統を、現代建築のための質感へ。Yakisugi Mori は大阪を拠点に、焼杉・杉・檜の表情を丁寧に選び、静けさのある外装と内装を提案します。",
+    subtitle: "日本で培われた焼杉（Shou Sugi Ban）の伝統を、現代建築のための質感へ。Yakisugi Mori は大阪を拠点に、焼杉・杉・檜の表情を丁寧に選び、静けさのある外装と内装を提案します。",
     ctaPrimary: "製品を見る",
     ctaSecondary: "資料を読む",
   },

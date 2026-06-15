@@ -214,7 +214,7 @@ export default function Home() {
               画面の余白にも残す。
             </h2>
             <p className="max-w-xl text-base leading-8 text-muted-foreground">
-              元サイトが持つイラストレーションの余韻を残しつつ、Yakisagi Mori では木理、炭化、煙の流れを静かな装飾感として再解釈しています。情報量は増やさず、素材の気配だけを深める構成です。
+              元サイトが持つイラストレーションの余韻を残しつつ、yakisugi Mori では木理、炭化、煙の流れを静かな装飾感として再解釈しています。情報量は増やさず、素材の気配だけを深める構成です。
             </p>
             <Link href="/about">
               <Button className="rounded-none border border-foreground bg-transparent px-5 text-[0.72rem] tracking-[0.2em] text-foreground hover:bg-foreground hover:text-background">
